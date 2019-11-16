@@ -1,0 +1,8 @@
+<Response>
+<Speak>
+Congratulations! You've made your first outbound call!
+</Speak>
+<Speak language="fr-FR">
+Bravo, on est passé au francais! 
+</Speak>
+</Response>
